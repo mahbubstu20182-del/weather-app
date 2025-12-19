@@ -58,9 +58,6 @@ OPENWEATHER_API_KEY=0c27137c2422a9da5e27b83a1fea6a60
 📦 Download (Windows EXE)
 
 👉 Go to the Releases section and download the latest main.exe.
-📸 Screenshot
-
-assets/screenshot.png
 
 🧑‍💻 Developer
 
